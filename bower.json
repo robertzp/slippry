@@ -10,8 +10,8 @@
   "main": [
     "dist/slippry.min.js",
     "dist/slippry.css",
-    "images/arrows.svg",
-    "images/sy-loader.gif"
+    "../images/arrows.svg",
+    "../images/sy-loader.gif"
   ],  
   "keywords": [
     "content",
