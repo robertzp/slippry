@@ -72,7 +72,7 @@ $mobile_break: 600px !default;     // breakpoint to use some special mobile styl
     .sy-slides-wrap, .sy-pager {
       visibility: hidden;
     }
-    background: url(/images/sy-loader.gif) 50% 50% no-repeat;
+    background: url(../images/sy-loader.gif) 50% 50% no-repeat;
     @include background-size(32px);
     min-height: 40px;
   }
@@ -195,7 +195,7 @@ $mobile_break: 600px !default;     // breakpoint to use some special mobile styl
       }
       &:after {
         content: "";
-        background-image: url(/images/arrows.svg);
+        background-image: url(../images/arrows.svg);
         background-repeat: no-repeat;
         @include background-size(cover);
         text-align: center;
